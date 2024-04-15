@@ -4,14 +4,14 @@
 
 ### Basic
 
-- numpy
-- torch
-- collections
+- python=3.7
+- numpy=1.21
+- torch=1.13
 
 ### Weights generator
 
-- scikit-learn
-- skgarden (for Mondrain forest, optional)
+- scikit-learn=0.21
+- skgarden=0.1 (for Mondrain forest, optional)
 
 ## Demo
 
